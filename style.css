@@ -1,5 +1,13 @@
+
+body{
+    font-size: 11pt;
+    color: #404040;
+    font-family: Georgia;
+}
+
 h1, h2{
     text-decoration: underline;
+    color: #A4A400;
 }
 
 h1{
@@ -14,3 +22,14 @@ h2{
     font-weight: normal;
 
 }
+
+a{
+    color: #A4A400;
+}
+
+blockquote{
+    font-style: italic;
+    background-color: #FFFFA8;
+    
+}
+
